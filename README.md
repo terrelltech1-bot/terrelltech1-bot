@@ -4,6 +4,8 @@ I'm learning data and analytics, working toward a career as a Product/Growth Ana
 
 Tools I use: SQL, Python, Excel
 
+Outside of coding, you'll find me working out at the gym, doing photography, or to different art exhibits. 
+
 Check out my projects below!
 
 <!--
