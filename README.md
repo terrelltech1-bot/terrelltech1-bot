@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Terrell! 👋
+
+I'm learning data and analytics, working toward a career as a Product/Growth Analyst.
+
+Tools I use: SQL, Python, Excel
+
+Check out my projects below!
 
 <!--
 **terrelltech1-bot/terrelltech1-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
